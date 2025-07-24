@@ -1,3 +1,4 @@
+![ci badge](https://github.com/Roddyck/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
 # learn-cicd-starter (Notely)
 
 Roddyck's version of Boot.dev's Notely app.
